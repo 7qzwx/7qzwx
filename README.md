@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7qzwx&show_icons=true&theme=dracula&local=cn )](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=QZWX_App)](https://github.com/7qzwx/QZWX_App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7qzwx&repo=QZWX_App)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **7qzwx/7qzwx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
